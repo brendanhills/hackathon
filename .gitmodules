@@ -1,6 +1,3 @@
-[submodule "aws-sdk-js"]
-	path = aws-sdk-js
-	url = https://github.com/aws/aws-sdk-js
 [submodule "alexa-skills-kit-js"]
 	path = alexa-skills-kit-js
 	url = https://github.com/amzn/alexa-skills-kit-js
